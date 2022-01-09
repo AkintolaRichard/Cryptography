@@ -1,5 +1,5 @@
 #! python3
-# Cryptography.py - This program is about cyptography using Vigenere Cipher
+# VigenereCipher.py - This program is about cyptography using Vigenere Cipher
 
 class Cryptography:
     """A class to encrypt and decrypt using the Vigenere Cipher."""
